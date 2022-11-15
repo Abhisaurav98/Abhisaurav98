@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Saurav
 - 👀 I’m interested in Data science, Mathematics ,Sports
-- 🌱 I’m currently learning Machine Learning, Numpy.
+- 🌱 I’m currently learning Machine Learning, Seaborn.
 - 📫 How to reach me abhisheksaurav0216@gmail.com
 
 <!---
